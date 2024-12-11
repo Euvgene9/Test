@@ -1,0 +1,1 @@
+Transakcja{ kwota=200.0, { karta=Karta Studenta numer=2, nazwisko='Marchew'}, kwotaDoZaplaty=180.0}
